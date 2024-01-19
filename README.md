@@ -1,4 +1,4 @@
-This repository provides the baseline version of Solidity code and client side python code for the p2p market published in ["A P2P File Sharing Market Based on Blockchain and IPFS with Dispute Resolution Mechanism"] (https://ieeexplore.ieee.org/document/10292453).
+This repository provides the baseline version of smart contract and client side python code for the p2p market published in ["A P2P File Sharing Market Based on Blockchain and IPFS with Dispute Resolution Mechanism"] (https://ieeexplore.ieee.org/document/10292453).
 
 If you use this work in your research/study, please cite our work:
 ```
